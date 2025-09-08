@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(./venv/Scripts/python hello_bot.py)",
+      "Bash(./venv/Scripts/python test_bot.py)",
+      "Bash(./venv/Scripts/python:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
