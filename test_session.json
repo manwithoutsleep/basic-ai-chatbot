@@ -1,0 +1,150 @@
+{
+  "session_id": "20250916_143415",
+  "created": "2025-09-16T14:34:15.225506",
+  "current_stage": 3,
+  "stage_progress": {
+    "introduction": {
+      "completed": false,
+      "question_count": 3
+    },
+    "skills_assessment": {
+      "completed": false,
+      "question_count": 4
+    },
+    "passion_exploration": {
+      "completed": false,
+      "question_count": 4
+    },
+    "values_clarification": {
+      "completed": false,
+      "question_count": 4
+    },
+    "synthesis": {
+      "completed": false,
+      "question_count": 0
+    },
+    "recommendations": {
+      "completed": false,
+      "question_count": 0
+    }
+  },
+  "user_responses": {
+    "introduction": [
+      {
+        "response": "Hi, I'm Maria. I'm exploring my calling because I want to make a meaningful impact",
+        "timestamp": "2025-09-16T14:34:15.224776",
+        "question_number": 0
+      },
+      {
+        "response": "I find joy in seeing others succeed and reach their potential",
+        "timestamp": "2025-09-16T14:34:15.224779",
+        "question_number": 1
+      },
+      {
+        "response": "I've taken some assessments before but want to go deeper",
+        "timestamp": "2025-09-16T14:34:15.224780",
+        "question_number": 2
+      }
+    ],
+    "skills_assessment": [
+      {
+        "response": "I'm naturally good at explaining complex things in simple ways",
+        "timestamp": "2025-09-16T14:34:15.224783",
+        "question_number": 0
+      },
+      {
+        "response": "People say I'm a good listener and give helpful advice",
+        "timestamp": "2025-09-16T14:34:15.224784",
+        "question_number": 1
+      },
+      {
+        "response": "I'm organized and good at planning events and projects",
+        "timestamp": "2025-09-16T14:34:15.224786",
+        "question_number": 2
+      },
+      {
+        "response": "I seem to motivate others and help them see possibilities",
+        "timestamp": "2025-09-16T14:34:15.224787",
+        "question_number": 3
+      }
+    ],
+    "passion_exploration": [
+      {
+        "response": "I lose track of time when I'm mentoring someone or teaching",
+        "timestamp": "2025-09-16T14:34:15.224789",
+        "question_number": 0
+      },
+      {
+        "response": "I dream about starting programs that help people grow",
+        "timestamp": "2025-09-16T14:34:15.224790",
+        "question_number": 1
+      },
+      {
+        "response": "Social justice and equality really stir my heart deeply",
+        "timestamp": "2025-09-16T14:34:15.224791",
+        "question_number": 2
+      },
+      {
+        "response": "I feel most alive when I see someone have a breakthrough",
+        "timestamp": "2025-09-16T14:34:15.224793",
+        "question_number": 3
+      }
+    ],
+    "values_clarification": [
+      {
+        "response": "Growth and learning guide most of my important decisions",
+        "timestamp": "2025-09-16T14:34:15.224794",
+        "question_number": 0
+      },
+      {
+        "response": "I want to be remembered for helping others discover their gifts",
+        "timestamp": "2025-09-16T14:34:15.224796",
+        "question_number": 1
+      },
+      {
+        "response": "Injustice motivates me to take action and create change",
+        "timestamp": "2025-09-16T14:34:15.224797",
+        "question_number": 2
+      },
+      {
+        "response": "Making a difference means empowering others to flourish",
+        "timestamp": "2025-09-16T14:34:15.224799",
+        "question_number": 3
+      }
+    ],
+    "synthesis": [],
+    "recommendations": []
+  },
+  "summary": {
+    "session_id": "20250916_143415",
+    "current_stage": "values_clarification",
+    "progress": {
+      "introduction": {
+        "completed": false,
+        "question_count": 3
+      },
+      "skills_assessment": {
+        "completed": false,
+        "question_count": 4
+      },
+      "passion_exploration": {
+        "completed": false,
+        "question_count": 4
+      },
+      "values_clarification": {
+        "completed": false,
+        "question_count": 4
+      },
+      "synthesis": {
+        "completed": false,
+        "question_count": 0
+      },
+      "recommendations": {
+        "completed": false,
+        "question_count": 0
+      }
+    },
+    "total_responses": 15,
+    "completion_percentage": 50.0
+  }
+}

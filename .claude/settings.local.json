@@ -5,9 +5,14 @@
       "Bash(./venv/Scripts/python hello_bot.py)",
       "Bash(./venv/Scripts/python test_bot.py)",
       "Bash(./venv/Scripts/python:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
+  },
+  "statusLine": {
+    "type": "command",
+    "command": "printf \"\\033[32m%s\\033[0m\" \"$(cat | jq -r '.model.display_name')\""
   }
 }

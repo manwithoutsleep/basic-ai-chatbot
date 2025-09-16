@@ -1,0 +1,518 @@
+{
+  "assessment_id": "assessment_20250916_143415",
+  "timestamp": "2025-09-16T14:34:15.225204",
+  "user_responses_summary": {
+    "introduction": {
+      "response_count": 3,
+      "sample_response": "Hi, I'm Maria. I'm exploring my calling because I want to make a meaningful impact"
+    },
+    "skills_assessment": {
+      "response_count": 4,
+      "sample_response": "I'm naturally good at explaining complex things in simple ways"
+    },
+    "passion_exploration": {
+      "response_count": 4,
+      "sample_response": "I lose track of time when I'm mentoring someone or teaching"
+    },
+    "values_clarification": {
+      "response_count": 4,
+      "sample_response": "Growth and learning guide most of my important decisions"
+    }
+  },
+  "gift_scores": {
+    "teaching": {
+      "total_score": 52.1,
+      "score_components": {
+        "skills_alignment": 8.333333333333332,
+        "passions_alignment": 12.5,
+        "values_alignment": 6.25,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "The ability to understand and communicate truth effectively",
+      "key_indicators": {
+        "skills": [
+          "teaching",
+          "communication",
+          "analytical"
+        ],
+        "passions": [
+          "learning",
+          "people"
+        ],
+        "values": [
+          "truth",
+          "growth",
+          "education",
+          "understanding"
+        ]
+      },
+      "typical_expressions": [
+        "Formal teaching or training",
+        "Mentoring and coaching",
+        "Writing instructional content",
+        "Creating educational resources"
+      ]
+    },
+    "leadership": {
+      "total_score": 50.0,
+      "score_components": {
+        "skills_alignment": 8.333333333333332,
+        "passions_alignment": 16.666666666666664,
+        "values_alignment": 0.0,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "The ability to inspire and guide others toward goals",
+      "key_indicators": {
+        "skills": [
+          "leadership",
+          "communication",
+          "administrative"
+        ],
+        "passions": [
+          "people",
+          "service",
+          "justice"
+        ],
+        "values": [
+          "vision",
+          "purpose",
+          "teamwork",
+          "progress"
+        ]
+      },
+      "typical_expressions": [
+        "Team or organization leadership",
+        "Project management",
+        "Community organizing",
+        "Visionary planning"
+      ]
+    },
+    "mercy": {
+      "total_score": 54.2,
+      "score_components": {
+        "skills_alignment": 12.5,
+        "passions_alignment": 16.666666666666664,
+        "values_alignment": 0.0,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "Deep compassion that moves you to help those who suffer",
+      "key_indicators": {
+        "skills": [
+          "helping",
+          "communication"
+        ],
+        "passions": [
+          "people",
+          "healing",
+          "justice"
+        ],
+        "values": [
+          "compassion",
+          "kindness",
+          "healing",
+          "restoration"
+        ]
+      },
+      "typical_expressions": [
+        "Counseling and support",
+        "Healthcare and healing",
+        "Working with marginalized people",
+        "Crisis intervention"
+      ]
+    },
+    "administration": {
+      "total_score": 39.6,
+      "score_components": {
+        "skills_alignment": 8.333333333333332,
+        "passions_alignment": 12.5,
+        "values_alignment": 0.0,
+        "response_content": 18.75
+      },
+      "strength": "Moderate",
+      "description": "The ability to organize and coordinate for effective ministry",
+      "key_indicators": {
+        "skills": [
+          "administrative",
+          "leadership",
+          "analytical"
+        ],
+        "passions": [
+          "service",
+          "people"
+        ],
+        "values": [
+          "order",
+          "efficiency",
+          "stewardship",
+          "service"
+        ]
+      },
+      "typical_expressions": [
+        "Event planning and coordination",
+        "Business and operations management",
+        "Resource allocation",
+        "Systems development"
+      ]
+    },
+    "serving": {
+      "total_score": 62.5,
+      "score_components": {
+        "skills_alignment": 25.0,
+        "passions_alignment": 12.5,
+        "values_alignment": 0.0,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "Joy in meeting practical needs and supporting others",
+      "key_indicators": {
+        "skills": [
+          "helping",
+          "administrative"
+        ],
+        "passions": [
+          "service",
+          "people"
+        ],
+        "values": [
+          "service",
+          "humility",
+          "helpfulness",
+          "support"
+        ]
+      },
+      "typical_expressions": [
+        "Volunteer coordination",
+        "Hospitality and events",
+        "Maintenance and support",
+        "Administrative assistance"
+      ]
+    },
+    "encouraging": {
+      "total_score": 56.2,
+      "score_components": {
+        "skills_alignment": 12.5,
+        "passions_alignment": 12.5,
+        "values_alignment": 6.25,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "The ability to motivate and build up others",
+      "key_indicators": {
+        "skills": [
+          "communication",
+          "helping"
+        ],
+        "passions": [
+          "people",
+          "healing"
+        ],
+        "values": [
+          "hope",
+          "growth",
+          "potential",
+          "encouragement"
+        ]
+      },
+      "typical_expressions": [
+        "Life coaching and mentoring",
+        "Motivational speaking",
+        "Counseling and therapy",
+        "Team building and development"
+      ]
+    },
+    "giving": {
+      "total_score": 56.2,
+      "score_components": {
+        "skills_alignment": 12.5,
+        "passions_alignment": 12.5,
+        "values_alignment": 6.25,
+        "response_content": 25.0
+      },
+      "strength": "Strong",
+      "description": "Joy in sharing resources generously for kingdom purposes",
+      "key_indicators": {
+        "skills": [
+          "administrative",
+          "analytical"
+        ],
+        "passions": [
+          "service",
+          "justice"
+        ],
+        "values": [
+          "generosity",
+          "stewardship",
+          "impact",
+          "justice"
+        ]
+      },
+      "typical_expressions": [
+        "Philanthropy and donations",
+        "Fundraising and development",
+        "Financial planning for ministry",
+        "Resource mobilization"
+      ]
+    },
+    "creativity": {
+      "total_score": 41.7,
+      "score_components": {
+        "skills_alignment": 0.0,
+        "passions_alignment": 16.666666666666664,
+        "values_alignment": 0.0,
+        "response_content": 25.0
+      },
+      "strength": "Moderate",
+      "description": "Using artistic gifts to inspire and communicate truth",
+      "key_indicators": {
+        "skills": [
+          "creative",
+          "communication"
+        ],
+        "passions": [
+          "creativity",
+          "people",
+          "service"
+        ],
+        "values": [
+          "beauty",
+          "expression",
+          "inspiration",
+          "truth"
+        ]
+      },
+      "typical_expressions": [
+        "Visual and performing arts",
+        "Creative writing and storytelling",
+        "Design and aesthetics",
+        "Worship and celebration arts"
+      ]
+    }
+  },
+  "top_gifts": [
+    {
+      "name": "serving",
+      "score": 62.5,
+      "strength": "Strong",
+      "description": "Joy in meeting practical needs and supporting others"
+    },
+    {
+      "name": "encouraging",
+      "score": 56.2,
+      "strength": "Strong",
+      "description": "The ability to motivate and build up others"
+    },
+    {
+      "name": "giving",
+      "score": 56.2,
+      "strength": "Strong",
+      "description": "Joy in sharing resources generously for kingdom purposes"
+    }
+  ],
+  "dominant_gifts": [
+    {
+      "name": "serving",
+      "score": 62.5,
+      "strength": "Strong"
+    },
+    {
+      "name": "encouraging",
+      "score": 56.2,
+      "strength": "Strong"
+    },
+    {
+      "name": "giving",
+      "score": 56.2,
+      "strength": "Strong"
+    },
+    {
+      "name": "mercy",
+      "score": 54.2,
+      "strength": "Strong"
+    },
+    {
+      "name": "teaching",
+      "score": 52.1,
+      "strength": "Strong"
+    },
+    {
+      "name": "leadership",
+      "score": 50.0,
+      "strength": "Strong"
+    }
+  ],
+  "readiness_score": 58.3,
+  "recommendations": [
+    "You have good awareness of your gifts. Focus on developing your top 1-2 gifts through practice and mentorship.",
+    "For your serving gift, consider: volunteer coordination",
+    "For your encouraging gift, consider: life coaching and mentoring",
+    "For your giving gift, consider: philanthropy and donations"
+  ],
+  "next_steps": [
+    "Find a mentor who demonstrates the serving gift well",
+    "Look for opportunities to practice serving in low-risk environments",
+    "Seek feedback from trusted friends about how they see these gifts in you",
+    "Keep a journal of when you feel most energized and effective",
+    "Continue learning about spiritual gifts through books, assessments, or courses"
+  ],
+  "detailed_analysis": {
+    "skills_analysis": {
+      "raw_responses": [
+        "I'm naturally good at explaining complex things in simple ways",
+        "People say I'm a good listener and give helpful advice",
+        "I'm organized and good at planning events and projects",
+        "I seem to motivate others and help them see possibilities"
+      ],
+      "themes": {
+        "teaching": 1,
+        "helping": 2,
+        "leadership": 1,
+        "administrative": 2
+      },
+      "top_skills": [
+        "helping",
+        "administrative",
+        "teaching"
+      ],
+      "skill_scores": {
+        "helping": 2,
+        "administrative": 2,
+        "teaching": 1
+      }
+    },
+    "passions_analysis": {
+      "raw_responses": [
+        "I lose track of time when I'm mentoring someone or teaching",
+        "I dream about starting programs that help people grow",
+        "Social justice and equality really stir my heart deeply",
+        "I feel most alive when I see someone have a breakthrough"
+      ],
+      "themes": {
+        "people": 2,
+        "creativity": 2,
+        "justice": 2
+      },
+      "top_passions": [
+        "people",
+        "creativity",
+        "justice"
+      ],
+      "passion_scores": {
+        "people": 2,
+        "creativity": 2,
+        "justice": 2
+      }
+    },
+    "skill_passion_overlaps": [
+      [
+        "teaching",
+        "people",
+        "teaching"
+      ],
+      [
+        "administrative",
+        "justice",
+        "leadership"
+      ],
+      [
+        "administrative",
+        "people",
+        "leadership"
+      ],
+      [
+        "helping",
+        "people",
+        "helping"
+      ],
+      [
+        "helping",
+        "justice",
+        "mercy"
+      ],
+      [
+        "helping",
+        "people",
+        "mercy"
+      ],
+      [
+        "administrative",
+        "people",
+        "administration"
+      ],
+      [
+        "helping",
+        "people",
+        "evangelism"
+      ]
+    ],
+    "alignment_score": 100,
+    "potential_spiritual_gifts": [
+      {
+        "name": "mercy",
+        "score": 0.5833333333333333,
+        "description": "Deep compassion that moves you to action when you see others suffering",
+        "matching_skills": [
+          "helping"
+        ],
+        "matching_passions": [
+          "justice",
+          "people"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "name": "leadership",
+        "score": 0.5,
+        "description": "The ability to inspire and guide others toward common goals and positive change",
+        "matching_skills": [
+          "administrative"
+        ],
+        "matching_passions": [
+          "justice",
+          "people"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "name": "prophecy",
+        "score": 0.5,
+        "description": "The ability to see truth clearly and speak it boldly for positive change",
+        "matching_skills": [],
+        "matching_passions": [
+          "justice",
+          "people"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "name": "evangelism",
+        "score": 0.5,
+        "description": "Natural ability to share good news and connect people with hope and purpose",
+        "matching_skills": [
+          "helping"
+        ],
+        "matching_passions": [
+          "people"
+        ],
+        "strength": "Moderate"
+      },
+      {
+        "name": "teaching",
+        "score": 0.41666666666666663,
+        "description": "The ability to understand and communicate truth in ways that help others learn and grow",
+        "matching_skills": [
+          "teaching"
+        ],
+        "matching_passions": [
+          "people"
+        ],
+        "strength": "Moderate"
+      }
+    ],
+    "values_insights": "Growth and learning guide most of my important decisions I want to be remembered for helping others discover their gifts Injustice motivates me to take action and create change Making a difference means empowering others to flourish",
+    "analysis_timestamp": "2025-09-16T14:34:15.225331",
+    "summary": "Your strongest skills appear to be: helping, administrative, teaching. Your core passions center around: people, creativity, justice. Areas of alignment point toward: administration, teaching, leadership, helping, evangelism, mercy. Your strongest spiritual gift indicator is mercy (Moderate strength)."
+  }
+}
